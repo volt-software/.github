@@ -1,6 +1,6 @@
 ## 
 
-Everything related to www.volt-software.nl, the name of my freelancing company. Also check out the [discord](https://discord.gg/r9BtesB).
+Everything related to [www.volt-software.nl](https://www.volt-software.nl), the name of my freelancing company. Also check out the [discord](https://discord.gg/r9BtesB).
 
 <!--
 
